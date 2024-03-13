@@ -1,0 +1,37 @@
+KYTC DISTRICT COUNTIES:
+
+District 1 (D1): Ballard, Calloway, Carlisle, Crittenden,
+Fulton, Graves, Hickman, Livingston, Lyon, Marshall, McCracken, Trigg
+
+District 2 (D2): Caldwell, Christian, Daviess, Hancock,
+Henderson, Hopkins, McLean, Muhlenberg, Ohio, Union, Webster 
+
+District 3 (D3): Allen, Barren, Butler, Edmonson, Logan,
+Metcalfe, Monroe, Simpson, Todd, Warren
+
+District 4 (D4): Breckinridge, Grayson, Green, Hardin, Hart,
+ LaR​​​​​​ue, Marion, Meade, Nelson, Taylor, Washington
+
+District 5 (D5): Bullitt, Franklin, Henry, Jefferson, Oldham,
+Shelby, Spencer, Trimble
+
+District 6 (D6): Boone, Bracken, Campbell, Carroll, Gallatin,
+Grant, Harrison, Kenton, Owen, Pendleton, Robertson
+
+District 7 (D7): Anderson, Bourbon, Boyle, Clark, Fayette,
+Garrard, Jessamine, Madison, Mercer, Montgomery, Scott, Woodford
+
+District 8 (D8): Adair, Casey, Clinton, Cumberland, Lincoln,
+McCreary, Pulaski, Rockcastle, Russell, Wayne
+
+District 9 (D9): Bath, Boyd, Carter, Elliott, Fleming,
+Greenup, Lewis, Mason, Nicholas, Rowan
+
+District 10 (D10): Breathitt, Estill, Lee, Magoffin, Menifee,
+Morgan, Owsley, Perry, Powell, Wolfe
+
+District 11 (D11): Bell, Clay, Harlan, Jackson, Knox, Laurel,
+Leslie, Whitley
+
+District 12 (D12): Floyd, Johnson, Knott, Lawrence, Letcher,
+Martin, Pike
