@@ -1,5 +1,5 @@
-#venv
-ky_bridges/
+#Excel files
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -130,6 +130,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ky_bridges/
 
 # Spyder project settings
 .spyderproject
