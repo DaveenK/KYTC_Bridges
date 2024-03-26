@@ -23,7 +23,7 @@ II. Create a venv in the project folder:
 `python -m venv example_venv`
 
 III. Activate the venv:  
-`source venv/Scripts/activate`
+`source example_venv/Scripts/activate`
 
 IV. Install the required packages:  
 `pip install -r requirements.txt`
@@ -32,5 +32,5 @@ V. When you are finished working on the repo, deactivate the venv:
 `deactivate`
 
 ### WAYS PROJECT COULD BE IMPROVED:
-The KYTC Project Archives do not include the Bridge IDs so unfortunately this table could not be joined with the others.
-Unfortunately, public data on bridge conditions was not available prior to project duedate.
+- The KYTC Project Archives do not include the Bridge IDs so unfortunately this table could not be joined with the others.
+- Unfortunately, public data on bridge conditions was not available prior to project duedate.
