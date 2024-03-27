@@ -12,7 +12,6 @@ When reading in Ky_Bridge_Points.csv, I received a dtype error for columns 62 an
 
 ### PYTHON LIBARIES:
 pandas  
-numpy  
 matplotlib  
 datetime  
 
