@@ -10,6 +10,16 @@ The general bridge data, Ky_Bridge_Points.csv came from https://opengisdata.ky.g
   
 When reading in Ky_Bridge_Points.csv, I received a dtype error for columns 62 and 64. Originally I converted the dtypes to int, but those columns are not needed for this analysis, so, ultimately, I dropped the columns instead.  
 
+### FEATURES  
+#### 1. Loading data
+- Read two data files.
+#### 2. Clean and operate on the data while combining them
+- Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
+#### 3. Visualize / Present your data
+- Make 3 matplotlib visualizations to display your data.
+#### 4. Best practices
+-Utilize a virtual environment and include instructions in your README on how the user should set one up.
+
 ### PYTHON LIBARIES:
 pandas  
 matplotlib  
