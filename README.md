@@ -18,28 +18,35 @@ When reading in Ky_Bridge_Points.csv, I received a dtype error for columns 62 an
 #### 3. Visualize / Present your data
 - Make 3 matplotlib visualizations to display your data.
 #### 4. Best practices
--Utilize a virtual environment and include instructions in your README on how the user should set one up.
+- Utilize a virtual environment and include instructions in your README on how the user should set one up.
 
-### PYTHON LIBARIES:
-pandas  
-matplotlib  
-datetime  
-
+### TECHNICAL INSIGHT:
+**Environment:** I used a venv and a Jupyter Notebook in Visual Studio Code to document and track my progress.  
+**Python Libaries:** I used pandas, matplotlib and datetime for wrangling, cleaning and analyzing data.  
+**Data Sources:** The bridge data for this analysis was sourced from the Kentucky Transportation Cabinet (KYTC) in CSV format.  
+**Access Requirements:** No special access is required, because the data is openly provided by KYTC.  
+**Data Visualization:** I used matplotlib to create bar graphs, tables and a line graph to display the bridge data in a format easier to read.  
+**Reporting:** Prepare a report/presentation summarizing key findings, insights, and visual outputs from the analysis.  
+  
 ### PYTHON VIRTUAL ENVIRONMENT (venv) SET-UP:
-I. Using GitBash in your terminal, clone the repo to your machine and then navigate to the project folder.
+I. Make sure you have Python installed. If not, download and install it from python.org. This project utilizes Python 3.11.5.
 
-II. Create a venv in the project folder:  
+II. Using GitBash in your terminal, clone the repo to your machine and then navigate to the project folder.  
+`git clone https://github.com/DaveenK/KYTC_Bridges.git`  
+`cd path/to/the/project/folder`
+
+III. Create a venv in the project folder:  
 `python -m venv example_venv`
 
-III. Activate the venv:  
+IV. Activate the venv:  
 `source example_venv/Scripts/activate`
 
-IV. Install the required packages:  
+V. Install the required packages:  
 `pip install -r requirements.txt`
 
-V. When you are finished working on the repo, deactivate the venv:  
+VI. When you are finished working on the repo, deactivate the venv:  
 `deactivate`
 
 ### WAYS PROJECT COULD BE IMPROVED:
-- The KYTC Project Archives do not include the Bridge IDs so unfortunately this table could not be joined with the others.
+- The KYTC Project Archives do not include the Bridge IDs so unfortunately this dataframe could not be joined with the others.
 - Unfortunately, public data on bridge conditions was not available prior to project duedate.
