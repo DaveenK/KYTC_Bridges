@@ -19,6 +19,8 @@ When reading in Ky_Bridge_Points.csv, I received a dtype error for columns 62 an
 - Make 3 matplotlib visualizations to display your data.
 #### 4. Best practices
 - Utilize a virtual environment and include instructions in your README on how the user should set one up.
+#### 5. Interpretation of your data
+- Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
 
 ### TECHNICAL INSIGHT:
 **Environment:** I used a venv and a Jupyter Notebook in Visual Studio Code to document and track my progress.  
